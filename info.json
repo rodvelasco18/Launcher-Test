@@ -1,0 +1,16 @@
+{
+  "latestVersion": "1.0.0",
+  "downloadUrl": "https://github.com/TU_USUARIO/TU_REPOSITTORIO/releases/download/v1.0.0/juego.zip",
+  "news": [
+    {
+      "date": "2026-10-01",
+      "title": "¡Lanzamiento de la versión 1.0.0!",
+      "content": "Bienvenidos a la primera versión de nuestro juego. ¡Esperamos que lo disfrutes!"
+    },
+    {
+      "date": "2026-09-25",
+      "title": "Proximamente nuevo contenido",
+      "content": "Estamos trabajando en corregir detalles y añadir más niveles."
+    }
+  ]
+}
